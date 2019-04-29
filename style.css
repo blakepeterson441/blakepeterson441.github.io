@@ -1,9 +1,11 @@
 body{
   font-family: 'Raleway', sans-serif;
-  margin-top: 6px;
-  margin-bottom: 6px;
-  margin-left: 6px;
-  margin-right 6px;
+  display: block;
+  margin: 6px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    margin-right 6px;
   
 }
 
