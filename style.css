@@ -22,3 +22,11 @@ h2{
   font-size: 1.75rem;
   
 }
+
+.list {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  
+}
